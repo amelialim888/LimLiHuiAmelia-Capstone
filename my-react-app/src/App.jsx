@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <div>
-        <img src={financeLogo} className="logo react" alt="Finance logo" />
+        <img src={financeLogo} className="logo react" alt="Finance logo" /> 
       </div>
       <h1>Finance Dashboard</h1>
       <StockForm />
