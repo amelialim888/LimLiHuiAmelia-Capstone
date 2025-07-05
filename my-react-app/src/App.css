@@ -7,7 +7,7 @@
 
 .logo {
   height: 6em;
-  padding: 1.5em;
+  padding: 1em;
   will-change: filter;
   transition: filter 300ms;
 }
@@ -18,5 +18,9 @@ body {
   color: #222;
   margin: 0;
   padding: 2rem;
+  background-image: url('./assets/notebook-paper-background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
