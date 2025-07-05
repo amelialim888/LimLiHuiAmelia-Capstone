@@ -1,0 +1,9 @@
+.profit-loss.gain {
+  color: #2ecc71; /* green */
+  font-weight: bold;
+}
+
+.profit-loss.loss {
+  color: #e74c3c; /* red */
+  font-weight: bold;
+}
